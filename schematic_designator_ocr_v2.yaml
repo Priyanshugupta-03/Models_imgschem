@@ -1,0 +1,8 @@
+character_list: 0123456789 !"#$%&'()*+,-./:;<=>?@^_`~§°x√µäöüΩABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+imgH: 64
+lang_list:
+- en
+network_params:
+  hidden_size: 256
+  input_channel: 1
+  output_channel: 256
